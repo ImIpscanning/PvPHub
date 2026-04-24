@@ -35,8 +35,8 @@ public class PvPHub extends JavaPlugin {
                     break;
 
                 case "semispam":
-                    setAttackSpeed(p, 8.0);
-                    p.sendMessage("§eModo SemiSpam (~8 CPS)");
+                    setAttackSpeed(p, 6.0);
+                    p.sendMessage("§eModo SemiSpam (~6 CPS)");
                     break;
 
                 case "spam":
