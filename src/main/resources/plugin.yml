@@ -1,0 +1,8 @@
+name: PvPHub
+version: 1.0
+main: me.ImIpscanning.pvphub.PvPHub
+api-version: 1.20
+
+commands:
+  pvphub:
+    description: Cambia el modo de PvP
