@@ -1,0 +1,9 @@
+current-mode: semispam
+
+modes:
+  trigger:
+    attack-speed: 4.0
+  semispam:
+    attack-speed: 6.5
+  spam:
+    attack-speed: 20.0
